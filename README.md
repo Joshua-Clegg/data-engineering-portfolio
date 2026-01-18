@@ -1,2 +1,14 @@
-# data-engineering-portfolio
-This repository highlights the data engineering projects I have been working on outside of work.
+# Data Engineering Portfolio
+
+This repository contains hands-on data engineering projects focusing on:
+- Batch and streaming data pipelines
+- SQL analytics and data modeling
+- Python-based data ingestion and transformation
+- Orchestration and data infrastructure
+
+Tech stack:
+- Python
+- PostgreSQL
+- Docker
+- SQL
+- (Upcoming: Airflow, dbt, Kafka)
